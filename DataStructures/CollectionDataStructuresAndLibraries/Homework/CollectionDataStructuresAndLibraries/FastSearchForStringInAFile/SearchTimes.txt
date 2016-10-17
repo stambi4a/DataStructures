@@ -1,0 +1,1 @@
+Search time using IndexOf(): 00:02:51.0946517
